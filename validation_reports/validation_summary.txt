@@ -1,0 +1,3 @@
+Total rows: 1000
+Total columns: 28
+Duplicate rows: 0

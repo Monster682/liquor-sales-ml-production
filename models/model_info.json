@@ -1,0 +1,17 @@
+{
+    "version": "v1",
+    "trained_on": "2026-02-28 17:05:33.104561",
+    "best_model": "LinearRegression",
+    "metrics": {
+        "LinearRegression": {
+            "MAE": 2.821141542597161e-11,
+            "RMSE": 3.460122365860914e-11,
+            "CV_MAE": 1.4648811941242458e-11
+        },
+        "RandomForest": {
+            "MAE": 170.31520799999996,
+            "RMSE": 266.54159353900445,
+            "CV_MAE": 160.8572491000001
+        }
+    }
+}

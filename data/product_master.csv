@@ -1,0 +1,21 @@
+sku_id,brand,liquor_type,size_ml,cost_price,mrp
+1001,Bacardi,Vodka,750,1304,1178
+1002,Jack Daniels,Beer,750,1225,1376
+1003,McDowell's,Rum,180,1221,1091
+1004,Kingfisher,Tequila,180,765,1063
+1005,Absolut,Gin,750,1329,679
+1006,Bacardi,Gin,375,902,792
+1007,Bacardi,Tequila,180,601,1480
+1008,McDowell's,Beer,375,929,2362
+1009,Kingfisher,Brandy,375,361,364
+1010,Absolut,Brandy,375,401,1667
+1011,Jack Daniels,Beer,180,1195,1452
+1012,Royal Stag,Brandy,375,469,2327
+1013,Absolut,Vodka,180,1015,1795
+1014,McDowell's,Gin,375,1494,1462
+1015,Bacardi,Beer,750,655,1822
+1016,Jack Daniels,Gin,750,1475,691
+1017,Absolut,Tequila,180,1216,1998
+1018,Royal Stag,Whisky,750,495,718
+1019,Royal Stag,Vodka,750,919,678
+1020,Smirnoff,Wine,375,537,2096

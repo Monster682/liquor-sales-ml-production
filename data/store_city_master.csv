@@ -1,0 +1,11 @@
+store_id,store_name,city,region
+1,Liquor Store 1,Nashik,West
+2,Liquor Store 2,Nagpur,West
+3,Liquor Store 3,Pune,West
+4,Liquor Store 4,Nashik,West
+5,Liquor Store 5,Nashik,Central
+6,Liquor Store 6,Nagpur,West
+7,Liquor Store 7,Pune,Central
+8,Liquor Store 8,Pune,Central
+9,Liquor Store 9,Nashik,Central
+10,Liquor Store 10,Mumbai,West

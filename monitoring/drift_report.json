@@ -1,0 +1,117 @@
+{
+    "transaction_id": {
+        "train_mean": 500.5,
+        "new_mean": 500.5,
+        "difference": 0.0
+    },
+    "store_id": {
+        "train_mean": 5.487,
+        "new_mean": 5.487,
+        "difference": 0.0
+    },
+    "sku_id": {
+        "train_mean": 1010.874,
+        "new_mean": 1010.874,
+        "difference": 0.0
+    },
+    "quantity_sold": {
+        "train_mean": 5.971,
+        "new_mean": 5.971,
+        "difference": 0.0
+    },
+    "selling_price": {
+        "train_mean": 1368.622,
+        "new_mean": 1368.622,
+        "difference": 0.0
+    },
+    "size_ml": {
+        "train_mean": 435.045,
+        "new_mean": 435.045,
+        "difference": 0.0
+    },
+    "cost_price": {
+        "train_mean": 921.181,
+        "new_mean": 921.181,
+        "difference": 0.0
+    },
+    "mrp_x": {
+        "train_mean": 1410.713,
+        "new_mean": 1410.713,
+        "difference": 0.0
+    },
+    "mrp_y": {
+        "train_mean": 1410.713,
+        "new_mean": 1410.713,
+        "difference": 0.0
+    },
+    "excise_tax_pct": {
+        "train_mean": 25.71,
+        "new_mean": 25.71,
+        "difference": 0.0
+    },
+    "vat_pct": {
+        "train_mean": 12.956,
+        "new_mean": 12.956,
+        "difference": 0.0
+    },
+    "gross_revenue": {
+        "train_mean": 8066.439,
+        "new_mean": 8066.439,
+        "difference": 0.0
+    },
+    "cogs": {
+        "train_mean": 5463.178,
+        "new_mean": 5463.178,
+        "difference": 0.0
+    },
+    "excise_tax": {
+        "train_mean": 352.26044999999993,
+        "new_mean": 352.26044999999993,
+        "difference": 0.0
+    },
+    "vat_tax": {
+        "train_mean": 177.22769,
+        "new_mean": 177.22769,
+        "difference": 0.0
+    },
+    "total_tax": {
+        "train_mean": 3113.66555,
+        "new_mean": 3113.66555,
+        "difference": 0.0
+    },
+    "net_profit": {
+        "train_mean": -510.40455,
+        "new_mean": -510.40455,
+        "difference": 0.0
+    },
+    "is_weekend": {
+        "train_mean": 0.298,
+        "new_mean": 0.298,
+        "difference": 0.0
+    },
+    "festival_flag": {
+        "train_mean": 0.119,
+        "new_mean": 0.119,
+        "difference": 0.0
+    },
+    "sku_avg_price": {
+        "train_mean": 1368.622,
+        "new_mean": 1368.622,
+        "difference": 0.0
+    },
+    "margin_pct": {
+        "train_mean": -28.95927287297274,
+        "new_mean": -28.95927287297274,
+        "difference": 0.0
+    },
+    "profit_7d_avg": {
+        "train_mean": -496.9199957857144,
+        "new_mean": -496.9199957857144,
+        "difference": 0.0
+    },
+    "profit_30d_avg": {
+        "train_mean": -488.43863225351777,
+        "new_mean": -488.43863225351777,
+        "difference": 0.0
+    }
+}
